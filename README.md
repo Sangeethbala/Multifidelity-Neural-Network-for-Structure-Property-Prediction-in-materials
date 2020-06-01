@@ -13,7 +13,10 @@ space. The use of this method is demonstrated in organic solar cells to predict 
 properties of interest.
 
 i_x_i -- CAE for mapping between microstructure images
+
 x_g - Maps between latent vector of images to the morphology descriptors
+
 x_gj--Input consists of latent vector+predicted morphology descriptors, Output is the short circuit current.
+
 
 Please find attached presentation for details
